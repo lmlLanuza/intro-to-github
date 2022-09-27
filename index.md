@@ -12,3 +12,7 @@ Added a header to the index.md file
   <body></body>
 </html>
 ```
+
+- [ ] Add the first item on the list
+- [ ] Add a second item to this list
+- [ ] Three times the charm
